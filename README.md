@@ -17,5 +17,5 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" loading="lazy"></br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" loading="lazy"></br>
 
-## Skills:
+## Contact me:
 <a href="https://www.linkedin.com/in/jorge-rodriguez-2a5328117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy"></a>
