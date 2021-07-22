@@ -17,12 +17,5 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" loading="lazy"></br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" loading="lazy"></br>
 
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/jorge-rodriguez-2a5328117/
+## Skills:
+<a href="https://www.linkedin.com/in/jorge-rodriguez-2a5328117/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy"></a>
