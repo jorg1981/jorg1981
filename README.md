@@ -18,4 +18,4 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" loading="lazy"></br>
 
 ## Contact me:
-<a href="https://www.linkedin.com/in/jorge-rodriguez-2a5328117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy"></a>
+<a href="https://www.linkedin.com/in/jorge-rodriguez-2a5328117/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy"></a>
